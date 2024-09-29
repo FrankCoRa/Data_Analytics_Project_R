@@ -1,4 +1,4 @@
-# HousingExp_R_Shiny
+# HousingExp_R_Shiny  (R Studio Project)
 Housing Expenditures Insights via R Shiny Dashboards
 To see the Project Description and Milestones follow this link
 # Data Extraction:
@@ -8,7 +8,7 @@ https://www.bls.gov/cex/pumd.htm
 # Joining Information 
 We extracted key housing features from the PUMD dataset, using the accompanying dictionary to interpret variable meanings accurately. After filtering for the years 2021 and 2022, we downloaded crucial datasets such as "NEWID," "PROP_NOG," "QRFINDTG," "FRSTPYMG," "QNEWDATG," and "LOAN_NOG," along with tables like "hel_table.csv," "mor_table.csv," "rnt_table.csv," and "utc_table.csv." These datasets contain valuable information on rent, housing expenses, mortgages, income, age, sex, and other variables critical to our research analysis.
 # Gathering Databases
-## Joining and Data Cleaning Code (R Studio)
+## Joining and Data Cleaning Code
 ```r
 # Install and load required package
 install.packages("dplyr")
