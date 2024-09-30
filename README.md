@@ -1,6 +1,5 @@
 # Individual Housing Expenditure Project (R Studio)
-Housing Expenditures Insights via R Shiny Dashboards
-To see the Project Description and Milestones follow this link
+To perform an in-depth analysis of U.S. housing market dynamics utilizing Consumer Expenditure Survey (CE) data, this project will focus on Public Use Microdata (PUMD) files. The objective is to develop a robust housing affordability index and assess state-level disparities in housing expenditure patterns.
 # Data Extraction:
 All the data was extracted from Data dictionary for the CE Public Use Microdata (PUMD)
 Consumer Expenditure Surveys database: Diary survey 2021 – 2022
