@@ -1,4 +1,4 @@
-# HousingExp_R_Shiny  (R Studio Project)
+# Individual Housing Expenditure Project (R Studio)
 Housing Expenditures Insights via R Shiny Dashboards
 To see the Project Description and Milestones follow this link
 # Data Extraction:
@@ -308,7 +308,7 @@ leaflet(ratio_map) %>%
             title = "Ratio Index", opacity = 1)
 
 ```
-# Shiny Application
+# Shiny Application (R Shiny)
 To create dynamic dashboards and storyboards similar to Tableau, we developed a web application using Shiny, an extension of RStudio. This requires three script pages: one for the visualization code and variables, another for the body and structure of the dashboards, and a final page to install the necessary packages for the application.
 ## Visuals Code (Server)
 Here, we consolidate all the plotting code from previous steps, organizing it for easy access in the next script.
