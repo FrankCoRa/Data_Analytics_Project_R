@@ -663,7 +663,7 @@ library(corrplot)
 library(cluster)
 library(leaflet)
 ```
-You can use these scripts as a guide for adding buttons, banners, or dynamics to your visualizations. When seeking help on ChatGPT, be specific about the variables and expected results. Remember to keep copies of your previous charts, as some packages like ggplot may not work well with Shiny. To avoid issues, keep your R software updated or consider using Plotly instead, as it is more compatible with Shiny. I hope you find these scripts useful, and I appreciate your feedback!
+You can use these scripts as a guide for adding buttons, banners, or dynamics to your visualizations. I hope you find these scripts useful, and I appreciate your feedback!
 
 
 
